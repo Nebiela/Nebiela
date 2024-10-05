@@ -1,0 +1,56 @@
+#EXTM3U url-tvg="https://pastebin.com/raw/yXK26GZL" refresh="3600" 
+
+# Join Telegram Group: 
+# =======================================================
+# Playlist Name: My Playlist by Neti จัดทำขึ้นเพื่อความ บันเทิง ดูฟรี ห้ามเอาไปขาย
+# Last Update: 2024-10-3 17:50:00 UTC+07 ICT
+# =======================================================
+
+
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000v/77/64/live-streaming-logo-with-play-button-vector-23277764.jpg" group-title="Streaming TV" ,By Edit By Neti
+#EXTVLCOPT:http-referrer=
+http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg" group-title="Streaming TV" ,อัปเดตหนังใหม่ เลื่อยๆ ครับ กำกับโดย หมูเด้ง
+#EXTVLCOPT:http-referrer=
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="2"  tvg-id="NBT 2 HD.th" tvg-name="NBT 2 HD" group-title="ดิจิตอล TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NBT_Logo.png/225px-NBT_Logo.png",NBT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/chunklist_w1579257356_b2128000.m3u8
+
+#EXTINF:-1 tvg-chno="3"  tvg-id="TPBS.th" tvg-name="TPBS" group-title="ดิจิตอล TV" tvg-logo="https://lh3.googleusercontent.com/-VL5BkPOtwLU/VSB1P_pSOPI/AAAAAAAAAXA/3DKrZVBcWPI/h120/hdthaipbs_digi.png",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4"  tvg-id="ALTV4.th" tvg-name="ALTV" group-title="ดิจิตอล TV" tvg-logo="https://altv-cms-images.s3.amazonaws.com/writer/6361e320b20f4ed7b66cb2d4/image_1669603112082531770.jpg",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="5"  tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="ดิจิตอล TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png/320px-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",TV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
+
+
+
+
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>รู้น่ะคิดอะไร ฝักคือฝักU</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ฝักคือฝักU"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg"></h2>
+</center>
+</body>
+</html>
+
