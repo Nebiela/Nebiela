@@ -143,7 +143,10 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 
 
+
 #############movie###############
+
+
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD-1.webp" group-title="MOVIE หนังใหม่" ,A-ซูม โจ๊กเกอร์ โฟลีย์ อา เดอ(2024)
 #EXTVLCOPT:http-referrer=https://037hd.tv/
@@ -380,6 +383,16 @@ http://iptvh.it/cartoonnet.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="การ์ตูน TV" tvg-logo="https://img2.pic.in.th/pic/1975431545962dd2e.jpeg",PBS KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+
+
+
+
+
 ###########tvKid######################
 
 
@@ -472,6 +485,9 @@ https://main.24playerhd.com/newplaylist/c0582c139ee1682aa6c9a3fc/c0582c139ee1682
 https://hot.24playerhd.com/autoplaylist/e5740646a27a2b1e5bbcc8ce9b6a143a/e5740646a27a2b1e5bbcc8ce9b6a143a.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-2024-%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%94%E0%B8%B5-%E0%B8%9B%E0%B8%A5%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99.webp" group-title="MOVIE การ์ตูน" ,วายร้ายพันธุ์ดี: ปล้นป่วนฮาโลวีน
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://live.lnwplayer.com/hls/10d27438-3f5c-4360-b0a2-559106ebc885/index.m3u8
 
 
 
@@ -518,7 +534,20 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="การ์ตูน TV" ,MANGORN
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
+
+#EXTINF:-1 group-title="การ์ตูน TV" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png"",RED BULL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
@@ -2410,8 +2439,71 @@ https://main.24playerhd.com/newplaylist/c826bc7000f674c32455d809/c826bc7000f674c
 
 #EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Gyeongseong-Creature-Season-2-2024-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B8%AD%E0%B8%87.webp",A- EP.1(2024) สัตว์สยองกยองซอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.123-hd.com/
+#EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/f08a48c7-7bea-42b5-8345-951abe1c763c/index.m3u8
+
+
+#EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024.webp",A- ยุทธจักรของคนเลว (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/ec65838b-bf4e-4421-aaf5-5be7621495be/index.m3u8
+
+
+
+
+
+
+#########หนังตลก#########################
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Ror-Door-Khao-Chon-Pee-2015-%E0%B8%A3%E0%B8%94.%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%9C%E0%B8%B5-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88-1-187x269.jpg",A-รด.เขาชนผี ที่เขาชนไก่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/6123d5bbc11edf4fcf2b86db/6123d5bbc11edf4fcf2b86db.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Zombieland-2009-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-187x269.jpg",A-ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/2d754362e1d50e1dcb8856e3/2d754362e1d50e1dcb8856e3.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Shaun-of-the-Dead-2004-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87-187x269.jpg",A-รุ่งอรุณแห่งความวาย(ป่วง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/52d2a0282dc05d6e88bd27c4/52d2a0282dc05d6e88bd27c4.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A5-%E0%B8%8B%E0%B8%B9%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C-1-187x269.jpg",A- เดี่ยวสเปเชียล ซูเปอร์ ซอฟต์ พาว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/4f505d9fad9c97e211e0bf56/4f505d9fad9c97e211e0bf56.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Johnny-English-Strikes-Again-%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%A5%E0%B8%B4%E0%B8%8A-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-2018-187x269.jpg",A- พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/bec96a8e813949f6b32d385d/bec96a8e813949f6b32d385d.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Detective-Chinatown-2-2018-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%81-2-187x269.jpg",A- แก๊งม่วนป่วนนิวยอร์ก 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/73ce7aa7275554f31fc6991e/73ce7aa7275554f31fc6991e.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Superhero-Movie-2008-%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%9B%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B8%99-%E0%B8%AE%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7-187x269.jpg",A- ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-58igvist-master.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://doomovie.online/wp-content/uploads/2023/11/%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2-Congrats-My-Ex-2023-187x280.jpg",A- ลุ้นรักป่วน ก๊วนแฟนเก่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-fu5eps0l-master.m3u8
+
+
 
 
 
