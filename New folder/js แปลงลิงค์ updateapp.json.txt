@@ -1,0 +1,10 @@
+https://statically.io/convert/
+เดิม
+
+https://raw.githubusercontent.com/Netibox/netibox/refs/heads/main/updateapp.json
+แปลง
+https://cdn.statically.io/gh/Netibox/netibox/refs/heads/main/updateapp.json
+
+
+เว็บไฟล์ 
+https://github.com/Netibox/netibox/
