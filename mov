@@ -7,13 +7,15 @@
 # =======================================================
 
 
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000v/77/64/live-streaming-logo-with-play-button-vector-23277764.jpg" group-title="Streaming TV" ,By Edit By Neti
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000v/77/64/live-streaming-logo-with-play-button-vector-23277764.jpg" group-title="Streaming TV" ,A- สวัสดี สวีดัด By Edit By Neti ยินต้อนรับ
 #EXTVLCOPT:http-referrer=
 http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg" group-title="Streaming TV" ,อัปเดตหนังใหม่ เลื่อยๆ ครับ กำกับโดย หมูเด้ง
+
+#EXTINF:-1 tvg-logo="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg" group-title="Streaming TV" ,Z-อัปเดตหนังใหม่ เลื่อยๆ ครับ กำกับโดย หมูเด้ง
 #EXTVLCOPT:http-referrer=
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
 
 
 
@@ -47,7 +49,7 @@ https://tcdn-live.tsports7.com/videohls/flivech/awtifYbj7ZZdC8m0H7GEVw/172786666
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="8"  tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="ดิจิตอล TV" tvg-logo="https://lh3.googleusercontent.com/-jf5q5lg7x7s/VSB1Ev8wPLI/AAAAAAAAAT8/jGbn9vNwklg/h120/hdch8_digi.png",Channel 8
+#EXTINF:-1 tvg-chno="8"  tvg-id="Channel 8.th" tvg-name="Channel 8" group-title="ดิจิตอล TV" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png",Channel 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
@@ -146,6 +148,19 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Its-Whats-Inside-2024-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87.webp" group-title="MOVIE หนังใหม่" ,b-กระเป๋าลับสลับร่าง
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/2d7fcb78-f4a0-4c3e-8800-1c7f2e1ff4d9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/The-Diary-El-Diario-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%95-2024.webp" group-title="MOVIE หนังใหม่" ,b-ปริศนาสมุดขุดอดีต 
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/63e8cac6-8991-4d68-8c6d-6979160fd01f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/The-Story-of-Yuan-Tiangang-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%A7-2024.webp" group-title="MOVIE หนังใหม่" ,b-ยุทธจักรของคนเลว
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/ec65838b-bf4e-4421-aaf5-5be7621495be/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Joker-Folie-a-Deux-2024-%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%AD-1.webp" group-title="MOVIE หนังใหม่" ,A-ซูม โจ๊กเกอร์ โฟลีย์ อา เดอ(2024)
@@ -368,6 +383,88 @@ https://main.24playerhd.com/newplaylist/be77a76beb38d22033836323/be77a76beb38d22
 
 
 
+
+
+#############sp###############
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://dookeela.live/uploads/1664499665.png",A- PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://dookeela.live/uploads/1664499673.png",A- PREMIER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein1.png", Bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.ball24.tv/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png" group-title="กีฬา Sport",True Sport 2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-sport-2/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png"",RED BULL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/JrqVc5yxdnvlrcmJUIh3JqdkCl3mRgqtsport7backup.png" group-title="กีฬา Sport", T Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tsports7.com/en/live
+https://tcdn-live.tsports7.com/videohls/flivech/awtifYbj7ZZdC8m0H7GEVw/1727866666/tsports-1_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="กีฬา Sport",AIS PLAY 1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png" group-title="กีฬา Sport",AIS PLAY 2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/football-play-2/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png" group-title="กีฬา Sport",beIN Sport 1 Turkey
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%201%20Turkey/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/i2ZHH3oJddcrsaEF5xb9NnklKGpLve0tv-station-tu-bein-sports-2-641.png" group-title="กีฬา Sport",beIN Sport 2 Turkey
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%202%20Turkey/playlist.m3u8
+
+
+
 ###########tv การ์ตูนทีวี######################
 
 #EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/โลโก้_การ์ตูนคลับแชนแนล.jpg" group-title="การ์ตูน TV",Cartoon Club
@@ -491,6 +588,9 @@ https://live.lnwplayer.com/hls/10d27438-3f5c-4360-b0a2-559106ebc885/index.m3u8
 
 
 
+
+
+
 ############ movie tv###########################
 
 
@@ -548,6 +648,7 @@ https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 
 
@@ -930,6 +1031,23 @@ https://surrit.com/298951dd-6cbf-438d-8027-ba9f2a0fcb96/playlist.m3u8
 #EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://img2.javmost.com/file_image/SMOK-004-UNCENSORED-LEAK.jpg",Z-SMOK-004
 https://surrit.com/003276a0-f74b-43d9-b8f0-15bd59efca95/playlist.m3u8
 
+#EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://tbi.sb-cd.com/t/12066451/1/2/w:300/t1-enh/fc2-ppv-3076281.jpg",Z-FC2-PPV-3076281
+https://surrit.com/11c7c58a-5768-42fe-aed9-bc3c8fbde1c0/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://cdn001.imggle.net/thumb/20220707/1657970414.jpg",Z-FC2-PPV-3049163
+https://surrit.com/2891eded-b26a-4a2c-8091-2c369ccbf73c/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://img3.javmost.com/images/PPV-2386297.webp",Z-FC2-PPV-2386297
+https://surrit.com/6efa941b-5817-4135-9fb9-089337dee27d/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://cdn.njav.tv/images/e/6e/fc2-ppv-2483055/thumb_h.jpg",Z-FC2-PPV-2483055
+https://surrit.com/ca6829c6-d647-49af-9390-3dc0db80830f/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง THAI 18+" tvg-logo="https://file.tkcdns.com/contents/videos_screenshots/157000/157495/320x180/3.jpg",Z-FC2-PPV-3152570
+https://surrit.com/d5a473de-e50d-4c37-9c2e-a9b7dd6348c7/playlist.m3u8
+
+
+
 
 
 
@@ -1297,7 +1415,7 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/4476/video/13322/hls/mo
 #EXTVLCOPT:http-referrer=https://tongha-movie.com/
 http://movie.server-cdn-streaming.com/api/uploads/movie/4259/video/11460/hls/movie_1.m3u8 คำบรรยาย:
  
-#EXTINF:-1 group-title="Movie คลังหนัง"" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Capture10b6212af24cc1e4.png", เพื่อนตาย (2024) [HD] คริสตศักราช
+#EXTINF:-1 group-title="Movie คลังหนัง" tvg-logo="https://img5.pic.in.th/file/secure-sv1/Capture10b6212af24cc1e4.png", เพื่อนตาย (2024) [HD] คริสตศักราช
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tongha-movie.com/
 https://movie.server-cdn-streaming.com/api/uploads/movie/4640/video/14595/hls/movie_1.m3u8
@@ -2503,7 +2621,33 @@ https://ezycdn.com/playlist-58igvist-master.m3u8
 #EXTVLCOPT:http-referrer=https://doomovie.online/
 https://ezycdn.com/playlist-fu5eps0l-master.m3u8
 
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Kung-Fu-Hustle-2004-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2-187x269.jpg",A- คนเล็กหมัดเทวดา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/ed5478f472553e9074c007cb/ed5478f472553e9074c007cb.m3u8
 
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Shaolin-Soccer-2001-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%A2%E0%B8%B5%E0%B9%88-187x269.jpg",A- นักเตะเสี้ยวลิ้มยี่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/6753a74247753c2a3e94a5d0/6753a74247753c2a3e94a5d0.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Pee-Mak-2013-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87-187x269.jpg",A- พี่มาก พระโขนง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/d91ef4897a94001f8ea3241f/d91ef4897a94001f8ea3241f.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/My-Boss-My-Hero-2001-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-187x269.jpg",A- สั่งเจ้าพ่อไปเรียนหนังสือ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/396d612099ac4b5a3fe4300b/396d612099ac4b5a3fe4300b.m3u8
+
+
+#EXTINF:-1 group-title="หนังตลก Comedy" tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/22-Jump-Street-2014-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-187x269.jpg",A- สายลับรั่วป่วนมหาลัย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24-hd.com/
+https://main.24playerhd.com/newplaylist/5b1c361a951324cfc33705dd/5b1c361a951324cfc33705dd.m3u8
 
 
 
