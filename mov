@@ -155,6 +155,10 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #############movie###############
 
 
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Kill-em-All-2-%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AB%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99-2-2024-187x280.jpg" group-title="MOVIE หนังใหม่" ,A-A Kill ’em All 2 (2024) 
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-viijpi18-master.m3u8
+
 #EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Customs-Frontline-2024-%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81.webp" group-title="MOVIE หนังใหม่" ,A- (2024)คนมหากาฬพิฆาตนรก
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/035444b0-a13c-4e32-9488-e81502714efa/index.m3u8
@@ -392,6 +396,15 @@ https://main.24playerhd.com/newplaylist/1d860a33b4b7828dc95052ad/1d860a33b4b7828
 https://main.24playerhd.com/newplaylist/be77a76beb38d22033836323/be77a76beb38d22033836323.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Bob-Marley-One-Love-%E0%B8%9A%E0%B9%87%E0%B8%AD%E0%B8%9A-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F-2024-189x280.jpg" group-title="MOVIE หนังใหม่" ,A-บ็อบ มาร์เลย์ วัน เลิฟ (2024)
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-3lk0s2g1-master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Black-Storm-%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC-2024-187x280.webp" group-title="MOVIE หนังใหม่" ,A-พายุทมิฬ (2024) บรรยายไทย
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-1mmrvecd-master.m3u8
+
 
 
 
@@ -443,7 +456,7 @@ https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png" group-title="กีฬา Sport",True Sport 2
 #EXTVLCOPT:http-referrer=https://ufabetcompany.app
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/true-sport-2/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png", PPTV
@@ -487,6 +500,11 @@ https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%202%20T
 https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.racingtv.com/static/media/default-offer-image.cfc6a9c06e030e6ff89c.jpg" group-title="กีฬา Sport",Racing UK (UK)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8
+
+
 
 ###########tv การ์ตูนทีวี######################
 
@@ -515,6 +533,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 ###########tvKid######################
 
+
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobitas-Earth-Symphony-%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%9F%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%95%E0%B8%B0-2024-189x280.jpg" group-title="MOVIE การ์ตูน" ,A-โดราเอมอน เดอะ มูฟวี่
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-u8j2gs0g-master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Transformers-One-%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B9%8C%E0%B8%9F%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-1-2024-187x269.jpg" group-title="MOVIE การ์ตูน" , ทรานส์ฟอร์เมอร์ส 1
@@ -685,6 +707,9 @@ https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
 ###########tv Sex######################
 
 
+#EXTINF:-1 tvg-logo="https://doomovie.online/wp-content/uploads/2019/07/833.jpg" group-title="หนัง THAI 18+" , A-3D Sex and Zen
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://main.24playerhd.com/newplaylist/8971af64a359c7273cbe04c4/8971af64a359c7273cbe04c4.m3u8
 
 
 
@@ -2506,6 +2531,12 @@ https://m1free.inwstream.com:1936/movie3/The_Monkey_King_2022/The_Monkey_King_20
 
 
 ##############moviefixnet##################
+
+
+#EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://doomovie.online/wp-content/uploads/2024/10/A-True-Gentleman-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B8%A9%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87-2024-196x280.jpg",A- สุภาพบุรุษตัวจริง (2024) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doomovie.online/
+https://ezycdn.com/playlist-06e5k9it-master.m3u8
 
 
 #EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",A- CTRL (2024)
