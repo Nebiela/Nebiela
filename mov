@@ -154,7 +154,13 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #############movie###############
 
-#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Its-Whats-Inside-2024-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87.webp" group-title="MOVIE หนังใหม่" ,b-กระเป๋าลับสลับร่าง
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Customs-Frontline-2024-%E0%B8%84%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%81.webp" group-title="MOVIE หนังใหม่" ,A- (2024)คนมหากาฬพิฆาตนรก
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/035444b0-a13c-4e32-9488-e81502714efa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/Its-Whats-Inside-2024-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87.webp" group-title="MOVIE หนังใหม่" ,A-กระเป๋าลับสลับร่าง
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 https://live.lnwplayer.com/hls/2d7fcb78-f4a0-4c3e-8800-1c7f2e1ff4d9/index.m3u8
 
@@ -2500,6 +2506,18 @@ https://m1free.inwstream.com:1936/movie3/The_Monkey_King_2022/The_Monkey_King_20
 
 
 ##############moviefixnet##################
+
+
+#EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://037hd.tv/wp-content/uploads/2024/10/CTRL-2024.webp",A- CTRL (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/d78bdecf-658a-43de-9d30-65b74b699bc7/index.m3u8
+
+
+#EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://037hd.tv/wp-content/uploads/2024/09/Worst-Ex-Ever-2024-%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%A2%E0%B9%88.webp",A- แฟนเก่ายอดแย่ (2024) ตอน EP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://037hd.tv/
+https://live.lnwplayer.com/hls/2a313e3e-c454-4b78-b8d7-a184b4bf4b79/index.m3u8
 
 
 #EXTINF:-1 group-title="Movie flixNet" tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/Apollo-13-Survival-%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%AD%E0%B8%A5%E0%B9%82%E0%B8%A5-13-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94-2024-300x450.jpg",อะพอลโล 13 ภารกิจต้องรอด (2024)
