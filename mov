@@ -12,6 +12,12 @@
 http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8
 
 
+#EXTINF:-1 group-title="Streaming TV" tvg-logo="https://img2.imgbiz.com/imgbiz/IMG_2404.png",B- สแกน QR กลุ่มเฟสบุ๊ค แอป LIVE IPTV THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/Nebiela/Nebiela/refs/heads/main/New%20folder/Video%20qr%20iptv.mp4
+
+
 #EXTINF:-1 tvg-logo="https://www.prachachat.net/wp-content/uploads/2024/09/hippo-1-728x485.jpg" group-title="Streaming TV" ,Z-อัปเดตหนังใหม่ เลื่อยๆ ครับ กำกับโดย หมูเด้ง
 #EXTVLCOPT:http-referrer=
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
@@ -410,6 +416,12 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://ufabetcompany.app
 https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
 
+#EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/beIN Sport (Tur).png", Bein 2 Arabic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/chunks.m3u8
+
+
 #EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://ufabetcompany.ltd/wp-content/uploads/logo-channel/bein3.png", Bein 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ufabetcompany.app
@@ -418,8 +430,8 @@ https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m
 
 #EXTINF:-1 group-title="กีฬา Sport" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png", True Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.ball24.tv/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/HOP6z5sFui1bpc5oZ9WL8H45g5yhekxtv-station-true-sport-2-1071.png" group-title="กีฬา Sport",True Sport 2
@@ -442,8 +454,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/JrqVc5yxdnvlrcmJUIh3JqdkCl3mRgqtsport7backup.png" group-title="กีฬา Sport", T Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.tsports7.com/en/live
-https://tcdn-live.tsports7.com/videohls/flivech/awtifYbj7ZZdC8m0H7GEVw/1727866666/tsports-1_720p/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.tsports7.com/
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png" group-title="กีฬา Sport",AIS PLAY 1
@@ -462,6 +474,11 @@ https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%201%20T
 #EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/i2ZHH3oJddcrsaEF5xb9NnklKGpLve0tv-station-tu-bein-sports-2-641.png" group-title="กีฬา Sport",beIN Sport 2 Turkey
 #EXTVLCOPT:http-referrer=https://ufabetcompany.app
 https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/beIN%20Sport%202%20Turkey/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.racingtv.com/static/media/default-offer-image.cfc6a9c06e030e6ff89c.jpg" group-title="กีฬา Sport",Racing UK (UK)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-racing.stream/chunks.m3u8
 
 
 
@@ -634,21 +651,26 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="การ์ตูน TV" ,MANGORN
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dHZFEQ_KNZQ/VSK7i3s2XYI/AAAAAAAAB1I/3pcDI7zYv9w/h120/sdmongkol.png" group-title="MOVIE ทีวี" ,MANGORN
 #EXTVLCOPT:http-referrer=https://037hd.tv/
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
 
-#EXTINF:-1 group-title="การ์ตูน TV" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
+#EXTINF:-1 group-title="MOVIE ทีวี" tvg-id="AXN" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-3.png",AXN
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="การ์ตูน TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png"",RED BULL TV
+#EXTINF:-1 group-title="MOVIE ทีวี" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cd0c92a3-96d1-411b-90c5-ac3f29d86485-profile_image-300x300.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+
+#EXTINF:-1 group-title="MOVIE ทีวี" tvg-logo="https://www.pngitem.com/pimgs/m/221-2217678_hbo-ole-logo-png-transparent-hbo-logo-png.png",HBO EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-hboeng.stream/chunks.m3u8
 
 
 
